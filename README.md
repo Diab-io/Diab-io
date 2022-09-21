@@ -30,5 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diab-io&show_icons=true&locale=en&layout=compact" alt="diab-io" /></p>
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diab-io" alt="diab-io" /></a> </p>
+<p> ## 🏆 GitHub Trophies </p>
+
+![](https://github-profile-trophy.vercel.app/?username=Diab-io&theme=radical&no-frame=false&no-bg=true&margin-w=4)
